@@ -47,7 +47,7 @@ Optional arguments:
 
 ### VMK-mer WORKFLOW 
 <p align="center">
-  <img src="https://github.com/asmaa-a-abdelwahab/VMK-mer/blob/main/misc/vmkmer-workflow.jpg"  width="90%" height="90%">
+  <img src="https://github.com/asmaa-a-abdelwahab/VMKmer/tree/main/misc/vmkmer-workflow.jpg"  width="90%" height="90%">
 </p>
 
 
